@@ -78,7 +78,6 @@ body {
 
 .cover_title span {
   display: block;
-  height: 115px;
 }
 
 .word_left-up {
@@ -134,7 +133,7 @@ body {
 .lots_heading {
   text-transform: uppercase;
   padding: 0 0 34px;
-  margin-left: 16px;
+  margin-left: 40px;
   font-weight: 700;
   font-size: 40px;
   line-height: 1;
@@ -228,7 +227,6 @@ body {
   display: grid;
   grid-template-columns: 334px 1fr;
   column-gap: 25px;
-  min-height: 595px;
   padding: 0;
   margin: 120px 24px 0;
 }
